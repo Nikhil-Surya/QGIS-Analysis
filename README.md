@@ -4,8 +4,7 @@
 This project utilizes QGIS to conduct a space-time study of earthquake activity over the past 30 days. The analysis focuses on identifying seismic patterns, population vulnerabilities, and the impact on infrastructure.
 
 ## 📽️ Watch the Analysis
-<video width="600" controls> <source src="Earthquake.mp4" type="video/mp4"> Your browser does not support the video tag. [Click here to download the video](Earthquake.mp4). </video>
-
+🔗 [Click here to watch the video](https://github.com/Nikhil-Surya/QGIS-Analysis/blob/main/Earthquake.mp4)
 ## 🔍 Key Insights
 **🌊 Coastal Vulnerability:**
 Coastal areas, especially along the Ring of Fire, experience frequent and intense seismic activity. \
